@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sniip301/Steal-A-Brainrot_Chair/main/loader.lua"))()

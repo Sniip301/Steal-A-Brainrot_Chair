@@ -1,0 +1,15 @@
+{
+  "auto_inject": false,
+  "topmost": false,
+  "selected_scripts": [
+    "main.lua",
+    "config.lua",
+    "lib.lua",
+    "features.lua",
+    "auto_farm.lua",
+    "esp.lua",
+    "gui.lua"
+  ],
+  "executor_path": "",
+  "fps_cap": 240
+}
