@@ -62,4 +62,4 @@ function Config:Set(key, value)
     self[key] = value
 end
 
-return Config
+return Config -- test trigger
